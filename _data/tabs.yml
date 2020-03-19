@@ -5,16 +5,16 @@
   link: /about/
 
 - name: Announcements
-  link: ./announcements/
+  link: /announcements/
 
 - name: Events
-  link: ./events/
+  link: /events/
 
 - name: LibreCorps
   link: /librecorps/
 
 - name: Projects
-  link: ./projects/
+  link: /projects/
 
 - name: People
   link: Home/people/
