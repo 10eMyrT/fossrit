@@ -14,10 +14,10 @@
   link: /librecorps/
 
 - name: Projects
-  link: /projects/
+  link: ./projects/
 
 - name: People
-  link: /people/
+  link: ./people/
 
 - name: Get Involved
   link: /get-involved/
