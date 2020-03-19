@@ -2,7 +2,7 @@
   link: /
 
 - name: About
-  link: ./about/
+  link: /about/
 
 - name: Announcements
   link: ./announcements/
@@ -11,7 +11,7 @@
   link: ./events/
 
 - name: LibreCorps
-  link: ./librecorps/
+  link: /librecorps/
 
 - name: Projects
   link: ./projects/
@@ -20,4 +20,4 @@
   link: ./people/
 
 - name: Get Involved
-  link: ./get-involved/
+  link: /get-involved/
